@@ -1,0 +1,14 @@
+.cont{
+    
+
+display: grid;
+grid-template-columns: 10% 80% 10%;
+
+   
+}
+.nav-f{
+    grid-column: 2/3;
+    background-color: rgb(187, 190, 190);
+    width: 100%;
+
+    
